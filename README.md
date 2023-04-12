@@ -6,6 +6,12 @@ TomoWarp2 is a Python based code that allows full-field vector displacements to 
 Send an email to erika.tudisco@construction.lth.se to report issues and bugs or if you want to receive updates.
 
 
+WSL Install:
+```tex
+You can install this in WSL, I recommend a fresh distro of Ubuntu 20.04LTS which is available in the Microsoft Store. 
+
+You can set this Ubuntu 20.04LTS to be for this program and have your own personal distro such as Ubuntu 22.xxLTS for other personal use
+```
 
 Install:
 
